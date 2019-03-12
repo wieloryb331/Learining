@@ -1,2 +1,2 @@
-# Learining
+# Learning
 Stuff I programmed myself
