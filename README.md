@@ -1,2 +1,2 @@
 # Learning
-Stuff I programmed myself
+Stuff I programmed myself for fun
